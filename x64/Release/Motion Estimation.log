@@ -1,0 +1,41 @@
+﻿  main.cpp
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\main.cpp(129,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\main.cpp(129,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 368 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Motion Estimation.vcxproj -> D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\x64\Release\Motion Estimation.exe
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\base.hpp(384): warning C26812: The enum type 'cv::NormTypes' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.hpp(66): warning C26812: The enum type 'cv::AccessFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.hpp(262): warning C26812: The enum type 'cv::_InputArray::KindFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.hpp(569): warning C26812: The enum type 'cv::UMatData::MemoryFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(562): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(591): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(1400): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(1425): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(1533): warning C26495: Variable 'cv::MatStep::buf' is uninitialized. Always initialize a member variable (type.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(1539): warning C26495: Variable 'cv::MatStep::buf' is uninitialized. Always initialize a member variable (type.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(2215): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(3621): warning C26812: The enum type 'cv::UMatUsageFlags' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(3908): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\mat.inl.hpp(3932): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\operations.hpp(435): warning C26812: The enum type 'cv::Formatter::FormatType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\utility.hpp(568): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\imgproc.hpp(4837): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\vo_features.h(35): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\vo_features.h(42): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\vo_features.h(43): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\main.cpp(48): warning C6001: Using uninitialized memory 'z_prev'.
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\main.cpp(48): warning C6001: Using uninitialized memory 'x_prev'.
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\main.cpp(48): warning C6001: Using uninitialized memory 'y_prev'.
+D:\NSUT\ARES\Software\OpenCVRoot\Motion Estimation\main.cpp(186): warning C26451: Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(859): warning C26495: Variable 'cv::Matx<double,4,1>::val' is uninitialized. Always initialize a member variable (type.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(671): warning C26495: Variable 'cv::Matx<float,3,1>::val' is uninitialized. Always initialize a member variable (type.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(570): warning C6294: Ill-defined for-loop:  initial condition does not satisfy test.  Loop body not executed.
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(570): warning C6201: Index '3' is out of valid index range '0' to '2' for possibly stack allocated buffer 'this->val'.
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(545): warning C26495: Variable 'cv::Matx<float,3,1>::val' is uninitialized. Always initialize a member variable (type.6).
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(562): warning C6294: Ill-defined for-loop:  initial condition does not satisfy test.  Loop body not executed.
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(562): warning C6201: Index '2' is out of valid index range '0' to '1' for possibly stack allocated buffer 'this->val'.
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(578): warning C6294: Ill-defined for-loop:  initial condition does not satisfy test.  Loop body not executed.
+D:\NSUT\ARES\Software\OpenCVRoot\External Libraries\OpenCV\include\opencv2\core\matx.hpp(578): warning C6201: Index '4' is out of valid index range '0' to '3' for possibly stack allocated buffer 'this->val'.
